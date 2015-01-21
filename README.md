@@ -53,5 +53,7 @@ cd FizzBuzz
 open SpecRunner.html
 ```
 
-I am [Hannah] from the December 2014 cohort of Makers Academy, London!
+
+Wer are [Hannah] and [Josh] from the December 2014 cohort of Makers Academy, London!
 [Hannah]:https://github.com/HannahCarney
+[Josh]:https://github.com/Bebbs
