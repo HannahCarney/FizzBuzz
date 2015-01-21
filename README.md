@@ -1,9 +1,9 @@
 FizzBuzz
 ==========
 
-[version1] https://github.com/HannahCarney/FizzBuzz/blob/91fdaf62561eec726f6beaacca38801864c9d549/js/FizzBuzz.js
-[version2] https://github.com/HannahCarney/FizzBuzz/blob/098ce5187e2230e1005bcf7a2cea18c45ecbfa72/js/FizzBuzz.js
-[version3] https://github.com/HannahCarney/FizzBuzz/blob/master/js/FizzBuzz.js
+[version1] [version1]: https://github.com/HannahCarney/FizzBuzz/blob/91fdaf62561eec726f6beaacca38801864c9d549/js/FizzBuzz.js
+[version2] [version2]: https://github.com/HannahCarney/FizzBuzz/blob/098ce5187e2230e1005bcf7a2cea18c45ecbfa72/js/FizzBuzz.js
+[version3] [version3]: https://github.com/HannahCarney/FizzBuzz/blob/master/js/FizzBuzz.js
 
 
 First time using JavaScript
