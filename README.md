@@ -6,20 +6,21 @@ FizzBuzz is a game played by children. The first person starts by saying "one" a
 Three Versions
 -------------------------
 
-Reproduced the game three times using different logic:
+We reproduced the game three times using different logic:
 
 [version1]: https://github.com/HannahCarney/FizzBuzz/blob/91fdaf62561eec726f6beaacca38801864c9d549/js/FizzBuzz.js
 [version2]: https://github.com/HannahCarney/FizzBuzz/blob/098ce5187e2230e1005bcf7a2cea18c45ecbfa72/js/FizzBuzz.js
 [version3]: https://github.com/HannahCarney/FizzBuzz/blob/master/js/FizzBuzz.js
 
-[version1]
-[version2]
-[version3]
+*[version1]
+*[version2]
+*[version3]
 
 Objectives of exercise
 ----
 - Learning JavaScript and Jasmine
 * Test-Driven-Development
+* Pair Programming
 
 Technologies used
 ----
